@@ -21,13 +21,7 @@ music-collection/
 └── resources/           # Music-related tools and references
 ```
 
-## 🌟 Featured Playlists
-
-1. **Sunrise Serenade** - Gentle morning tunes
-2. **Midnight Melancholy** - For those contemplative nights
-3. **Euphoric Energy** - Get-up-and-go tracks
-4. **Rainy Day Refuge** - Cozy atmospheric pieces
-5. **World Wanderlust** - Global sounds and rhythms
+## 🌟 Featured Songs
 
 ## 🛠️ Usage
 
@@ -47,11 +41,9 @@ While this is primarily a personal collection, I'm always open to:
 
 This collection is for personal use only. All music rights belong to their respective artists and copyright holders. Please support artists by purchasing their music or streaming through official channels.
 
-## 🎧 Currently Listening To
 
-*[Insert what you're currently enjoying here]*
 
-## 📬 Let's Connect
+## 📬 Let's Connect to Sudarshan Badli 
 
 <a href="https://x.com/sudarshan_badli?s=09">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
